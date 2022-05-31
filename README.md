@@ -14,7 +14,7 @@ The style guide for these banners can be found [Here](https://www.aogr.com/uploa
 
 * [JigSaw]([https://laravel.com](https://jigsaw.tighten.com/))
 * [Bootstrap](https://getbootstrap.com)
-* 
+
 <!-- GETTING STARTED -->
 ## Getting Started
 This project contains a static web page with 3 animated GIF banners. 

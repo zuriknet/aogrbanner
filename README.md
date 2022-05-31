@@ -11,20 +11,18 @@
 
 <!-- PROJECT SHIELDS -->
 <!--
+*** Howdy folks! Zurik Phillips Web Master here...
 *** I'm using markdown "reference style" links for readability.
 *** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
 *** See the bottom of this document for the declaration of the reference variables
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-<p align="center">
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
+
+[![Forks][forks-shield][forks-url]](https://github.com/zuriknet/aogrbanner/fork)
+[![Stargazers][stars-shield]][stars-url]](https://github.com/zuriknet/aogrbanner/fork)
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-</p>
+[![LinkedIn][linkedin-shield]][[linkedin-url](https://www.linkedin.com/in/zurik/)]
 
 
 <!-- PROJECT LOGO -->

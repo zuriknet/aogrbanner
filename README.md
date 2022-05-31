@@ -35,7 +35,7 @@ _To install, start by creating a new directory_
 
 1. mkdir web
 2. cd web
-3. Clone the repo
+3. Clone the repo into the new 'web' directory
    ```sh
    git clone https://github.com/zuriknet/aogrbanner.git ./
    ```

@@ -19,12 +19,6 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-[![Forks][forks-shield][forks-url]](https://github.com/zuriknet/aogrbanner/fork)
-[![Stargazers][stars-shield]][stars-url]](https://github.com/zuriknet/aogrbanner/fork)
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][[linkedin-url](https://www.linkedin.com/in/zurik/)]
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">

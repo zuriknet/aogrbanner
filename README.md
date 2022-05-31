@@ -50,26 +50,12 @@ _To install, start by creating a new directory_
 6. Start up the web server
    ```sh
    vendor/bin/jigsaw serve
-   and navigate to: http://localhost:8000/
    ```
+7. Navigate to: http://localhost:8000/
+
+Thats it, you should now see the webpage and the three animated GIF banner images
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 <!-- CONTACT -->
 ## Contact
